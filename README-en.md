@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.07) —— 479 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用canvas画一个渐变的长方形](https://github.com/haizlin/fe-interview/issues/2743)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [当css中background或background-image的值为url()或url(#)时，会发生什么情况？为什么？如何解决？](https://github.com/haizlin/fe-interview/issues/2744)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [浏览器中window.length的结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2745)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [解释下内网IP和公网IP是什么？](https://github.com/haizlin/fe-interview/issues/2746)  
+## :clock430: Today's Knowledge Points (2020.08.10) —— 482 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [cookie的值可以设置为中文吗？为什么？如果可以怎么设置？](https://github.com/haizlin/fe-interview/issues/2758)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请解释下dpr和dpi](https://github.com/haizlin/fe-interview/issues/2759)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 478 days (2020.08.06)  
-    	 :one: [html] [请使用canvas画一个椭圆](https://github.com/haizlin/fe-interview/issues/2739)  
-	 :two: [css] [请举例说明width:fit-conten有什么使用场景](https://github.com/haizlin/fe-interview/issues/2740)  
-	 :three: [js] [随机生成一个指定长度的验证码](https://github.com/haizlin/fe-interview/issues/2741)  
-	 :four: [skill] [我们会经常用到ping命令，你知道它的作用和原理吗？](https://github.com/haizlin/fe-interview/issues/2742)  
+- 481 days (2020.08.09)  
+    	 :one: [html] [button标签的type默认值是什么呢？](https://github.com/haizlin/fe-interview/issues/2751)  
+	 :two: [css] [position的relative和absolute分别是相对谁进行定位的？](https://github.com/haizlin/fe-interview/issues/2752)  
+	 :three: [js] [你有用过哪些模板引擎？你觉得哪个好用？为什么？](https://github.com/haizlin/fe-interview/issues/2753)  
+	 :four: [skill] [一般情况下，大图片需要压缩到什么程度呢？](https://github.com/haizlin/fe-interview/issues/2754)  
  
 	
 - **[All](category/history.md)**
