@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.10) —— 482 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [cookie的值可以设置为中文吗？为什么？如果可以怎么设置？](https://github.com/haizlin/fe-interview/issues/2758)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请解释下dpr和dpi](https://github.com/haizlin/fe-interview/issues/2759)  
+## :clock430: Today's Knowledge Points (2020.08.19) —— 491 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在IOS下启用WebApp全屏模式？](https://github.com/haizlin/fe-interview/issues/2794)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你现在还经常写css代码吗？](https://github.com/haizlin/fe-interview/issues/2795)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，计算有N个数（可重复），分别放到M个位置中，有多少种排列？](https://github.com/haizlin/fe-interview/issues/2796)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [本地开发时如何不用修改hosts可以绑定域名开发？](https://github.com/haizlin/fe-interview/issues/2797)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 481 days (2020.08.09)  
-    	 :one: [html] [button标签的type默认值是什么呢？](https://github.com/haizlin/fe-interview/issues/2751)  
-	 :two: [css] [position的relative和absolute分别是相对谁进行定位的？](https://github.com/haizlin/fe-interview/issues/2752)  
-	 :three: [js] [你有用过哪些模板引擎？你觉得哪个好用？为什么？](https://github.com/haizlin/fe-interview/issues/2753)  
-	 :four: [skill] [一般情况下，大图片需要压缩到什么程度呢？](https://github.com/haizlin/fe-interview/issues/2754)  
+- 490 days (2020.08.18)  
+    	 :one: [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)  
+	 :two: [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)  
+	 :three: [js] [如何取消promise？](https://github.com/haizlin/fe-interview/issues/2792)  
+	 :four: [skill] [请说说扫码登录的原理及流程](https://github.com/haizlin/fe-interview/issues/2793)  
  
 	
 - **[All](category/history.md)**
