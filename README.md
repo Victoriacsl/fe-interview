@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.28) —— 第500天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [跨域通信有哪些方式？](https://github.com/haizlin/fe-interview/issues/2831)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说CSS对元素属性赋值的详细过程？](https://github.com/haizlin/fe-interview/issues/2832)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在js中undefined和not defined的区别是什么？](https://github.com/haizlin/fe-interview/issues/2833)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对持续集成的理解，它解决什么问题以及如何在前端中运用？](https://github.com/haizlin/fe-interview/issues/2834)  
+## :clock430: 今天的知识点   (2020.09.04) —— 第507天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法，实现对某个节点的拖拽](https://github.com/haizlin/fe-interview/issues/2862)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你在web端实现过批量打印吗？如何实现？](https://github.com/haizlin/fe-interview/issues/2863)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第499天 (2020.08.27)  
-    	 :one: [html] [说下cookie的优点和使用场景是什么？](https://github.com/haizlin/fe-interview/issues/2827)  
-	 :two: [css] [使用css3制作雪花效果](https://github.com/haizlin/fe-interview/issues/2828)  
-	 :three: [js] [js中的数字在电脑内存储为多少Byte？](https://github.com/haizlin/fe-interview/issues/2829)  
-	 :four: [软技能] [说说你对人脸识别的理解或者对原理的理解](https://github.com/haizlin/fe-interview/issues/2830)  
+- 第506天 (2020.09.03)  
+    	 :one: [html] [给你一个参考网站，你能快速下载它的模板吗？用哪些方法？](https://github.com/haizlin/fe-interview/issues/2856)  
+	 :two: [css] [grid布局和flex布局有什么区别？](https://github.com/haizlin/fe-interview/issues/2857)  
+	 :three: [js] [写一个代理console.log的方法](https://github.com/haizlin/fe-interview/issues/2858)  
+	 :four: [软技能] [如何解决android键盘回落后留白问题？](https://github.com/haizlin/fe-interview/issues/2859)  
  
 	
 - **[查看全部](category/history.md)**
