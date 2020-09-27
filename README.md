@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.09.04) —— 第507天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法，实现对某个节点的拖拽](https://github.com/haizlin/fe-interview/issues/2862)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你在web端实现过批量打印吗？如何实现？](https://github.com/haizlin/fe-interview/issues/2863)  
+## :clock430: 今天的知识点   (2020.09.27) —— 第530天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，满足当页面滚动时，左侧固定不动，右侧的最小高度与左侧一样](https://github.com/haizlin/fe-interview/issues/2980)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [伪类选择器和伪元素选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/2981)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [接口请求时需要做哪些安全处理？怎么做？](https://github.com/haizlin/fe-interview/issues/2982)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你之前公司有做前端的基础建设吗？都有哪些方面？](https://github.com/haizlin/fe-interview/issues/2983)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第506天 (2020.09.03)  
-    	 :one: [html] [给你一个参考网站，你能快速下载它的模板吗？用哪些方法？](https://github.com/haizlin/fe-interview/issues/2856)  
-	 :two: [css] [grid布局和flex布局有什么区别？](https://github.com/haizlin/fe-interview/issues/2857)  
-	 :three: [js] [写一个代理console.log的方法](https://github.com/haizlin/fe-interview/issues/2858)  
-	 :four: [软技能] [如何解决android键盘回落后留白问题？](https://github.com/haizlin/fe-interview/issues/2859)  
+- 第529天 (2020.09.26)  
+    	 :one: [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)  
+	 :two: [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)  
+	 :three: [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)  
+	 :four: [软技能] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)  
  
 	
 - **[查看全部](category/history.md)**
