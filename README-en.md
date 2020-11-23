@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.27) —— 530 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，满足当页面滚动时，左侧固定不动，右侧的最小高度与左侧一样](https://github.com/haizlin/fe-interview/issues/2980)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [伪类选择器和伪元素选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/2981)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [接口请求时需要做哪些安全处理？怎么做？](https://github.com/haizlin/fe-interview/issues/2982)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你之前公司有做前端的基础建设吗？都有哪些方面？](https://github.com/haizlin/fe-interview/issues/2983)  
+## :clock430: Today's Knowledge Points (2020.11.23) —— 587 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对数据结构和数据类型的理解](https://github.com/haizlin/fe-interview/issues/3221)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [前端如何优化Content Download耗时太久的问题？](https://github.com/haizlin/fe-interview/issues/3222)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 529 days (2020.09.26)  
-    	 :one: [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)  
-	 :two: [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)  
-	 :three: [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)  
-	 :four: [skill] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)  
+- 586 days (2020.11.22)  
+    	 :one: [html] [使用canvas画一个中国象棋的棋盘](https://github.com/haizlin/fe-interview/issues/3215)  
+	 :two: [css] [解释下为什么在移动端切图时会有使用到2倍图片呢？](https://github.com/haizlin/fe-interview/issues/3216)  
+	 :three: [js] [解释如下代码的输出结果，并改造代码使得按顺序输出i](https://github.com/haizlin/fe-interview/issues/3217)  
+	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
  
 	
 - **[All](category/history.md)**
